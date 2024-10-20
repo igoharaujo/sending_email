@@ -1,4 +1,4 @@
-# Documentação do Script de Envio de E-mail com Anexo
+# Envio de E-mail com Anexo
 
 ## Visão Geral
 Este script utiliza a biblioteca `smtplib` para enviar um e-mail com anexo, juntamente com um corpo de texto. O arquivo anexo é um Excel (`teste.xlsx`), e o conteúdo do e-mail inclui uma reflexão de Albert Einstein.
